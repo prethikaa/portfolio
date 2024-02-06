@@ -916,7 +916,6 @@ span.aan-title:after {
     width: 80%;
     height: 390px;
 
-
     padding-left: 15px;
   }
 
@@ -952,7 +951,6 @@ span.aan-title:after {
   }
   .sub-title,
   .main-text h2 {
-    /* text-align: left;  */
     font-size: 30px;
     padding-bottom: 15px;
   }
