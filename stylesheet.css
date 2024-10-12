@@ -93,7 +93,7 @@ body {
 }
 
 .home-content h1 {
-  font-size: 56px;
+  font-size: 45px;
   font-weight: 700;
   margin: -3px 0;
   opacity: 0;
@@ -905,6 +905,8 @@ span.aan-title:after {
   height: 400px;
 }
 
+
+
 @media only screen and (max-width: 768px) {
   .navbar {
     display: none;
@@ -946,9 +948,9 @@ span.aan-title:after {
     padding: 0;
   }
 
-  .background {
+  /* .background {
     display: none !important;
-  }
+  } */
   .sub-title,
   .main-text h2 {
     font-size: 30px;
