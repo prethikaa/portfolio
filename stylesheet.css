@@ -916,9 +916,9 @@ span.aan-title:after {
   }
   .home {
     width: 80%;
-    height: 390px;
-
+margin-bottom: 20px;
     padding-left: 15px;
+
   }
 
   .btn-box {
@@ -977,10 +977,10 @@ span.aan-title:after {
   .home-content h1 {
     font-size: 40px;
   }
-
+/* 
   .home-p {
     display: none;
-  }
+  } */
 
   .about-text p {
     margin-bottom: 0;
